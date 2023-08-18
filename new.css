@@ -1,0 +1,85 @@
+
+
+
+*{
+ margin: 0px ;
+  padding:0px;
+}
+
+
+
+.top{
+  
+  width:100%;
+  background-color:Lightgoldenrodyellow;
+  margin-left: px;
+  margin-right: px;
+  text-align: center;
+ opacity: 0.7;
+ padding-bottom: 10px;
+ padding-top: 10px;
+ padding: 10px 7px;
+ display: flex;
+
+}
+
+
+
+.one{ 
+  
+ 
+ width: 50%;
+ margin-left: auto;
+ margin-right: auto;
+ text-align: center;
+ background-color: white;
+ margin-top: 10px;
+ 
+ 
+}
+
+
+
+.face{
+  color: blue;
+  opacity: 0.8
+  
+}
+
+.ptop{
+  color: darkblue;
+  
+}
+
+
+.img{
+  
+ width: 20px
+}
+
+
+
+.box{
+margin: 20px 0px;
+}
+
+.new{
+  border: 1px solid lightgray;
+ background: #e9e9e9;
+margin-bottom: 5px ;
+padding:5px;
+border-radius: 3px;
+opacity: 0.9;
+box-shadow: 0px 0.3px 0.5px ;
+}
+
+.fox{
+  border: 1px solid lightgray;
+width:194px;
+border-radius: 5px;
+background: blue;
+color: white ;
+padding: 3px 0px;
+opacity: 0.8;
+
+}
